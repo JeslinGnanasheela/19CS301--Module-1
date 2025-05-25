@@ -1,5 +1,4 @@
-# 19CS301--Module-1
-Exp.No:1(a)	PYTHON BASICS-PRINTING MULTILINE STRING
+# Experiment No: 1a Python Basics- Printing Multiline String
 
 ### AIM
 To create a python program to print the string in multiline using triple quotes.
@@ -37,7 +36,7 @@ print(string_double_quotes)
 ### RESULT
 Thus the python program for printing multiline strings has been implemented and executed successfully.
 
-Exp.No:1(b)	DATA TYPES-PYTHON PROGRAM TO PRINTING INTEGER LITERALS
+# Exp.No:1(b)	DATA TYPES-PYTHON PROGRAM TO PRINTING INTEGER LITERALS
 
 ### AIM
 To write a python program to print the following integer literals 123,456,789
@@ -71,7 +70,7 @@ Thus the python program for printing the Integer Literals has been implemented a
 
 
 
-Exp.No:1(c)	VARIABLES AND EXPRESSIONS, OPERATORS ADDING TWO COMPLEX NUMBERS
+# Exp.No:1(c)	VARIABLES AND EXPRESSIONS, OPERATORS ADDING TWO COMPLEX NUMBERS
 
 ### AIM
 To write a python program for adding two complex numbers, get the user input using the eval() function.
@@ -108,7 +107,7 @@ print(f"Sum is {sum_complex}")
 Thus the python program for  adding two complex numbers has been implemented and executed successfully.
 
 
-Exp.No:1(d)	CONDITIONAL STATEMENTS- CHECKING VOWEL OR NOT
+# Exp.No:1(d)	CONDITIONAL STATEMENTS- CHECKING VOWEL OR NOT
 
 ### AIM
 To Write a Python program to check whether the given character is a vowel or not using if..else statement
@@ -146,7 +145,7 @@ Thus the python program to check whether the given character is a vowel or not u
 
 
 
-Exp.No:1(e)	SEB- MINIMUM OF THREE NUMBERS
+# Exp.No:1(e)	SEB- MINIMUM OF THREE NUMBERS
 
 ### AIM
 To write a program to find a minimum between three integer numbers using conditional Expression(Ternary).
